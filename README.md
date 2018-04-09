@@ -11,4 +11,6 @@
 3. On the left, expand **Local Storage**, then click on the discordapp.com entry (it should be the only one).
 4. Locate the entry called `token`, and copy it.
 
+The Token should start with `mfa`
+
 > **KEEP YOUR TOKEN SECRET, AND NEVER SHARE IT WITH ANYONe. IF ANYONE GETS YOUR TOKEN THEY CAN PRETEND TO BE YOU AND HAVE ACCESS TO YOUR >ACCOUNT**
